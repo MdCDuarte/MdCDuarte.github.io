@@ -1,33 +1,92 @@
+*{
+    background: #393939;
+}
+
 div {
     font-family: 'Consolas', monospace;
     font-size: 20px;
-    color:  #000000;
+    color: #eaeaea;
+}
+
+/* display: inline-block;*/
+#title{
+    background-color: #17b8b8;
+}
+h1 {
+    font-family: 'Century Gothic', monospace;
+    font-size: 70px;
+    text-align: center;
+    color: #393939;
     background-color: transparent;
 }
-
-h1 {
-    font-size: 70px;
-    position: 50%;
-}
-
-
-
-.social-icons {
-    margin: 20px 0 0;
-}
-.icon {
-    background: rgba(255, 255, 255, 0.63);
-    border-radius: 100%;
+h4 {
+    font-size: 25px;
     text-align: center;
-    line-height: 20px;
-    font-size: 20px;
-    color: #009688;
-    padding: 5px;
-    width: 30px;
-    height: 30px;
-    display: inline-block;
+    color: #393939;
+    background-color: transparent;
+    padding-bottom: 30px;
 }
-.icon:hover {
-    color: rgba(255, 255, 255, 0.63);
-    background: #009688;
+h3 {
+    color: #eaeaea;
 }
+p {
+    color: #bebebe;
+}
+
+h2 {
+    color: #1ed0d0;
+}
+
+
+
+#education {
+    width: 25%;
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    margin: 5px 5px;
+    padding-left: 5%;
+}
+#experience {
+    width: 25%;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    margin: 5px 5px;
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+#contacts {
+    width: 25%;
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    margin: 5px 5px;
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+#pcont {
+    color: #eaeaea;
+}
+#link {
+    color: #eaeaea;
+}
+#link:hover {
+    color: #1ed0d0;
+}
+
+
+#vidinfo {
+    text-align: center;
+    position: relative;
+    top: 530px;
+}
+#pvid {
+    color: #eaeaea;
+}
+
+#videos {
+    position: relative;
+    top: 540px;
+}
+
