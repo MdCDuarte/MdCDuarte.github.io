@@ -80,10 +80,10 @@ h2 {
 #pcont {
     color: #eaeaea;
 }
-#link {
+.link {
     color: #eaeaea;
 }
-#link:hover {
+.link:hover {
     color: #1ed0d0;
 }
 
