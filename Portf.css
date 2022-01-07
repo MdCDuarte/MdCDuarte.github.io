@@ -23,7 +23,7 @@ h1:hover {
     transform:rotate(-20deg);
     transition: .5s ease;
 }
-h4 {
+h4 { 
     font-size: 25px;
     text-align: center;
     color: #393939;
