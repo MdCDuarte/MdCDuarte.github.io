@@ -1,6 +1,11 @@
-p {
+div {
     font-family: 'Consolas', monospace;
     font-size: 20px;
     color:  #000000;
     background-color: transparent;
+}
+
+h1 {
+    font-size: 70px;
+    position: 50%;
 }
